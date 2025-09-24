@@ -65,5 +65,7 @@ GROUP BY date(from_iso8601_timestamp(publishedat)), pred_label
 ORDER BY pub_date, pred_label;
 
 
-**### 2.vvfvfv**
+### 1. How does overall news sentiment change over time?  
+```sql
+
 
