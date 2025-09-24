@@ -51,7 +51,6 @@ The main goal is to extract **meaningful insights** about news sentiment (positi
 ---
 
 ## 📊 Business Questions & SQL Queries  
-
 ### 1. How does overall news sentiment change over time?  
 ```sql
 SELECT 
@@ -64,8 +63,56 @@ WHERE publishedat IS NOT NULL
 GROUP BY date(from_iso8601_timestamp(publishedat)), pred_label
 ORDER BY pub_date, pred_label;
 
-
-### 1. How does overall news sentiment change over time?  
+```
+### 2.Which news sources consistently produce more positive vs negative coverage?
 ```sql
+SELECT 
+    source_name,
+    pred_label,
+    COUNT(*) AS article_count
+FROM elt_project.silver_news_final
+WHERE source_name IS NOT NULL
+GROUP BY source_name, pred_label
+ORDER BY article_count DESC;
+```
+
+### 3. What percentage of articles are positive vs negative overall?
+```sql
+SELECT 
+    pred_label,
+    COUNT(*) * 100.0 / (SELECT COUNT(*) FROM newspipeline.silver_news_final) AS percentage
+FROM elt_project.silver_news_final
+GROUP BY pred_label;
+```
+### 4. How does sentiment differ across specific topics (e.g., elections, economy, sports)?
+```sql
+SELECT topic, pred_label, COUNT(*) AS article_count
+FROM (
+    SELECT 
+        CASE 
+            WHEN LOWER(title) LIKE '%election%' OR LOWER(content) LIKE '%election%' THEN 'Elections'
+            WHEN LOWER(title) LIKE '%economy%' OR LOWER(content) LIKE '%economy%' THEN 'Economy'
+            WHEN LOWER(title) LIKE '%sport%'   OR LOWER(content) LIKE '%sport%'   THEN 'Sports'
+            ELSE 'Other'
+        END AS topic,
+        pred_label
+    FROM elt_project.silver_news_final
+) t
+GROUP BY topic, pred_label
+ORDER BY topic, article_count DESC;
+```
+
+### 5. Which journalists/authors contribute the most positive or negative articles?
+```sql
+SELECT 
+    author,
+    pred_label,
+    COUNT(*) AS article_count
+FROM elt_project.silver_news_final
+WHERE author IS NOT NULL
+GROUP BY author, pred_label
+ORDER BY article_count DESC
+LIMIT 20;
+```
 
 
