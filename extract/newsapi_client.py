@@ -9,7 +9,7 @@ def fetch_and_store_news():
     if not NEWS_API_KEY:
         raise ValueError("Missing NEWS_API_KEY. Please set it in your .env file.")
 
-    url = f"https://newsapi.org/v2/top-headlines?language=en&pageSize=10&apiKey=8eff43b0196d4bcc9972a7c920e9c037"
+    url = f"https://newsapi.org/v2/top-headlines?language=en&pageSize=10&apiKey="
     resp = requests.get(url).json()
 
     # ✅ Error handling
