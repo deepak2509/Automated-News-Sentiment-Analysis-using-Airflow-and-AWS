@@ -1,0 +1,31 @@
+name: 'ai_bias_drift_monitoring'
+version: '1.0'
+config-version: 2
+
+profile: 'default'
+
+model-paths: ["models"]
+analysis-paths: ["analysis"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_modules"
+
+models:
+  ai_bias_drift_monitoring:
+
+    staging:
+      +schema: silver
+      +materialized: view
+
+    marts:
+      +schema: gold
+      +materialized: table
+
+    semantic:
+      +schema: gold
+      +materialized: view

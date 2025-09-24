@@ -1,0 +1,155 @@
+[
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "Brent Brookhouse",
+    "title": "College football scores, live updates: Week 4 schedule features Utah vs. Texas Tech, Clemson in action - CBS Sports",
+    "description": "NCAA football scores, live updates and highlights from the full slate of Week 4 action on Saturday",
+    "url": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-4-ncaa-top-25-games-today/live/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/20/5e1ea327-d634-4272-b6c6-755843675b7d/thumbnail/1200x675/0020d8404795b36e4d384ddcbc9b38f0/texas-tech-utah.png",
+    "publishedAt": "2025-09-20T18:30:00Z",
+    "content": "Halftime: Syracuse 24, Clemson 14\r\nIf you were wondering whether it could get worse for Clemson, it could. After suffering a heartbreaking loss to Georgia Tech last weekend, the Tigers came out flat \u2026 [+1566 chars]",
+    "text": "College football scores, live updates: Week 4 schedule features Utah vs. Texas Tech, Clemson in action - CBS Sports",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.6723936200141907,
+    "processed_at": "2025-09-21T21:00:06.657642"
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Ben Johansen",
+    "title": "US will control TikTok\u2019s algorithm under deal, White House says - Politico",
+    "description": "Trump has repeatedly flouted a congressionally passed ban on the app to give more time for negotiations over ownership.",
+    "url": "https://www.politico.com/news/2025/09/20/trump-tiktok-sale-algorithm-00574348",
+    "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F30%2F03%2F9fae31da47d2ae939ff499809915%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236119223",
+    "publishedAt": "2025-09-20T17:36:04Z",
+    "content": "An agreement between America and China over the Chinese-owned apps content algorithm has been a key element of negotiations, as lawmakers increasingly grew concerned in the past several years that Ch\u2026 [+1526 chars]",
+    "text": "US will control TikTok\u2019s algorithm under deal, White House says - Politico",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.965626060962677,
+    "processed_at": "2025-09-21T21:00:06.838272"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Matt Lavietes",
+    "title": "Armed man posing as law enforcement detained at site of Charlie Kirk's memorial - NBC News",
+    "description": "An armed man posing as law enforcement was detained at an Arizona stadium where a memorial service for Charlie Kirk is set to take place on Sunday, the Secret Service said",
+    "url": "https://www.nbcnews.com/news/us-news/armed-man-posing-law-enforcement-detained-site-charlie-kirks-memorial-rcna232609",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250920-State-Farm-Stadium-c-d3c366.jpg",
+    "publishedAt": "2025-09-20T17:16:53Z",
+    "content": "An armed man posing as law enforcement was detained at an Arizona stadium where a memorial service for Charlie Kirk is set to take place on Sunday, the Secret Service said.\r\nThe man entered State Far\u2026 [+1606 chars]",
+    "text": "Armed man posing as law enforcement detained at site of Charlie Kirk's memorial - NBC News",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9582993984222412,
+    "processed_at": "2025-09-21T21:00:06.995814"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Yun Li",
+    "title": "Big Tech companies, foreign governments scramble after Trump slaps $100,000 annual fee on H-1B visas - CNBC",
+    "description": "The announcement to impose a $100,000 annual fee on H-1B visas sent shockwaves through corporate America.",
+    "url": "https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201555-17583167612025-09-19t211751z_1764404862_rc29vgaeytiy_rtrmadp_0_usa-trump.jpeg?v=1758316820&w=1920&h=1080",
+    "publishedAt": "2025-09-20T16:28:47Z",
+    "content": "Major technology companies and foreign governments are rushing to respond after President Donald Trump late Friday announced plans to impose a $100,000 annual fee on H-1B visas, threatening to upend \u2026 [+2670 chars]",
+    "text": "Big Tech companies, foreign governments scramble after Trump slaps $100,000 annual fee on H-1B visas - CNBC",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.99636310338974,
+    "processed_at": "2025-09-21T21:00:07.142819"
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Adam Wren",
+    "title": "Could 2028 be the 'YouTube election\u2019? - Politico",
+    "description": "Amid the rapid decline of cable news, potential candidates and other elected officials are locked in a digital arms race to draw subscribers, boost their reach and build what amounts to their own broadcast networks.",
+    "url": "https://www.politico.com/news/2025/09/20/2028-youtube-election-politics-campaign-00574335",
+    "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fed%2F5c%2F5dc8968e4210a7efc609998736a8%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2172928518",
+    "publishedAt": "2025-09-20T16:13:02Z",
+    "content": "Taken together, it signals the arrival of a fast-changing attention economy that has scrambled what effective political communication looks like. The 2028 cycle has the potential to be the first post\u2026 [+5187 chars]",
+    "text": "Could 2028 be the 'YouTube election\u2019? - Politico",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9967830181121826,
+    "processed_at": "2025-09-21T21:00:07.228857"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Brandt Ranj",
+    "title": "Prime members can get three months of Kindle Unlimited for free - The Verge",
+    "description": "Along with a Kindle Unlimited deal, there are also deals on the 11-inch iPad Air (M3), Moto G Power 2025, and amFilm screen protectors for iPhone 17 and Air.",
+    "url": "https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale",
+    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Kindle-Unlimited.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "publishedAt": "2025-09-20T16:00:00Z",
+    "content": "<ul><li></li><li></li><li></li></ul>\r\nThe weeks best deals include iPhone 17 screen protectors that are half off, plus a cheap MagSafe power bank.\r\nThe weeks best deals include iPhone 17 screen prote\u2026 [+5960 chars]",
+    "text": "Prime members can get three months of Kindle Unlimited for free - The Verge",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9959854483604431,
+    "processed_at": "2025-09-21T21:00:07.359200"
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Jordain Carney",
+    "title": "Schumer, Jeffries demand meeting with Trump amid shutdown showdown - Politico",
+    "description": "The government is set to shut down on Sept. 30.",
+    "url": "https://www.politico.com/news/2025/09/20/trump-democrats-shutdown-meeting-00574336",
+    "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F6b%2Ff3%2F8d94221d4725a0269f899f63f405%2Fu-s-congress-35947.jpg",
+    "publishedAt": "2025-09-20T15:59:00Z",
+    "content": "As a result, it is now your obligation to meet with us directly to reach an agreement to keep the government open and address the Republican healthcare crisis, they added.\r\nThe demand for a meeting c\u2026 [+1677 chars]",
+    "text": "Schumer, Jeffries demand meeting with Trump amid shutdown showdown - Politico",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9188376069068909,
+    "processed_at": "2025-09-21T21:00:07.416039"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Caitlin Danaher, Ibrahim Dahman",
+    "title": "Gaza hospital director receives bodies of brother and other relatives while on duty - CNN",
+    "description": "On Friday, Dr. Mohammed Abu Salmiya left his family home for a shift as the director of the Al-Shifa hospital. A day later, the bodies of six family members arrived while he was still on duty.",
+    "url": "https://www.cnn.com/2025/09/20/middleeast/gaza-hospital-director-receives-bodies-of-relatives-intl",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235853135.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-09-20T15:51:26Z",
+    "content": "On Friday, Dr. Mohammed Abu Salmiya left his family home for a shift as the director of the Al-Shifa hospital. A day later, the bodies of six family members arrived while he was still on duty.\r\nAn Is\u2026 [+2130 chars]",
+    "text": "Gaza hospital director receives bodies of brother and other relatives while on duty - CNN",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.8504084944725037,
+    "processed_at": "2025-09-21T21:00:07.469963"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Emma Burrows",
+    "title": "Russian jets over Estonia ignored signals from NATO pilots, officials say - AP News",
+    "description": "A senior Estonian military official said Russian pilots ignored signals from Italian jets during a 12-minute violation of Estonian airspace. Russia\u2019s Defense Ministry denied the incident, which happened near an Estonian island in the Baltic Sea. Estonian offi\u2026",
+    "url": "https://apnews.com/article/russia-jets-estonia-nato-signals-ed46783ac2ce71622a9f3aa8f2ba9ad7",
+    "urlToImage": "https://dims.apnews.com/dims4/default/987d5a9/2147483647/strip/true/crop/8148x4583+0+424/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2Fd2%2F75f12e5d0bddb9d11177a2b95bfd%2F3e369db1d6ff44dbbcfb591c574b8888",
+    "publishedAt": "2025-09-20T15:46:00Z",
+    "content": "TALLINN, Estonia (AP) Russian pilots ignored signals from Italian jets responding from NATOs Baltic Air Policing Mission when they violated Estonian airspace, a senior Estonian military official said\u2026 [+5312 chars]",
+    "text": "Russian jets over Estonia ignored signals from NATO pilots, officials say - AP News",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9982534050941467,
+    "processed_at": "2025-09-21T21:00:07.523824"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "text": "status",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9991387128829956,
+    "processed_at": "2025-09-22T15:00:09.775509"
+  },
+  {
+    "text": "totalResults",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9993526339530945,
+    "processed_at": "2025-09-22T15:00:09.798924"
+  },
+  {
+    "text": "articles",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9780464768409729,
+    "processed_at": "2025-09-22T15:00:09.815454"
+  }
+]

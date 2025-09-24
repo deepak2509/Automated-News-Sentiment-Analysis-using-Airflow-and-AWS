@@ -1,0 +1,76 @@
+version: 1
+
+tables:
+
+  bronze:
+    - name: news_events
+      description: "Raw news events ingested from NewsAPI"
+      fields:
+        - name: event_id
+          type: text
+        - name: ts
+          type: timestamp
+        - name: source
+          type: jsonb
+        - name: author
+          type: text
+        - name: title
+          type: text
+        - name: description
+          type: text
+        - name: url
+          type: text
+        - name: published_at
+          type: timestamp
+        - name: language
+          type: text
+        - name: region
+          type: text
+
+  silver:
+    - name: sentiment_predictions
+      description: "Clean news events enriched with sentiment predictions"
+      fields:
+        - name: ts
+          type: timestamp
+        - name: source
+          type: text
+        - name: title
+          type: text
+        - name: pred_label
+          type: text
+        - name: pred_score
+          type: float
+        - name: language
+          type: text
+        - name: region
+          type: text
+
+  gold:
+    - name: bias_metrics
+      description: "Bias metrics computed from sentiment predictions"
+      fields:
+        - name: ts
+          type: timestamp
+        - name: group_name
+          type: text
+        - name: positive_rate
+          type: float
+        - name: parity_gap
+          type: float
+        - name: disparate_impact
+          type: float
+
+    - name: drift_metrics
+      description: "Drift metrics comparing current vs baseline distributions"
+      fields:
+        - name: ts
+          type: timestamp
+        - name: psi
+          type: float
+        - name: output_shift
+          type: float
+        - name: current_distribution
+          type: jsonb
+        - name: baseline_distribution
+          type: jsonb

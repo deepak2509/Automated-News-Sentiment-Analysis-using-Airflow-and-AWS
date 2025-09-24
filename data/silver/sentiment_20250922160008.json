@@ -1,0 +1,155 @@
+[
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Maziar Motamedi, Federica Marsi",
+    "title": "UK recognises Palestinian statehood 108 years after Balfour Declaration - Al Jazeera",
+    "description": "The decision, announced alongside Canada and Australia, comes as Israel continues its deadly destruction in Gaza.",
+    "url": "https://www.aljazeera.com/news/2025/9/21/uk-pm-starmer-to-recognise-palestinian-statehood-before-unga-meeting",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AFP__20250918__74YU4NJ__v1__HighRes__BritainUsDiplomacy-1758465915.jpg?resize=1920%2C1440",
+    "publishedAt": "2025-09-21T14:03:45Z",
+    "content": "British Prime Minister Keir Starmer has announced the United Kingdoms decision to formally recognise a Palestinian state more than 100 years after the Balfour Declaration backed the establishment in \u2026 [+4430 chars]",
+    "text": "UK recognises Palestinian statehood 108 years after Balfour Declaration - Al Jazeera",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9916765689849854,
+    "processed_at": "2025-09-22T16:00:07.528470"
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Nahal Toosi",
+    "title": "Trump has left US embassies largely leaderless and often fearful - Politico",
+    "description": "More than 60 ambassadorships don\u2019t even have a nominee, while diplomats are told they\u2019re being evaluated on their \u201cfidelity.\u201d",
+    "url": "https://www.politico.com/news/2025/09/21/trump-embassies-ambassadors-00573848",
+    "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff3%2F2b%2Fb3154b114dada859895b5828ca38%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F907091356",
+    "publishedAt": "2025-09-21T14:00:00Z",
+    "content": "The overall impact of the changes remains unclear. But many diplomats said they feel both powerless and resigned to the circumstances. Theres a sense that if Trumps political appointees dont want dip\u2026 [+10540 chars]",
+    "text": "Trump has left US embassies largely leaderless and often fearful - Politico",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9984143972396851,
+    "processed_at": "2025-09-22T16:00:07.629328"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NBCSports.com"
+    },
+    "author": "Mike Florio",
+    "title": "Report: Disney may be balancing Jimmy Kimmel against NFL/ESPN deal - NBC Sports",
+    "description": "Cancel culture caused made a stunning comeback this week, with ABC's decision to remove Jimmy Kimmel from his longtime late-night slot over comments made regarding the political aftermath of the assassination of Charlie Kirk.",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-disney-may-be-balancing-jimmy-kimmel-against-nfl-espn-deal",
+    "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8e0cd4c/2147483647/strip/true/crop/5412x3044+0+282/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcd%2Fdf%2F7107e39246238b67ef7bc436f4aa%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235617700",
+    "publishedAt": "2025-09-21T13:35:48Z",
+    "content": "Cancel culture caused made a stunning comeback this week, with ABCs decision to remove Jimmy Kimmel from his longtime late-night slot over comments made regarding the political aftermath of the assas\u2026 [+2556 chars]",
+    "text": "Report: Disney may be balancing Jimmy Kimmel against NFL/ESPN deal - NBC Sports",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9822176098823547,
+    "processed_at": "2025-09-22T16:00:07.742738"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rudebaguette.com"
+    },
+    "author": "Noah Bennett",
+    "title": "\"This Cargo Is Lost\": NASA's Five-Ton Supply Ship Malfunctions While ISS Astronauts Watch Helplessly From Above - Rude Baguette",
+    "description": "The International Space Station (ISS) stands as a testament to human ingenuity and cooperation. For over two decades, it has orbited Earth at a breathtaking",
+    "url": "https://www.rudebaguette.com/en/2025/09/this-cargo-is-lost-nasas-five-ton-supply-ship-malfunctions-while-iss-astronauts-watch-helplessly-from-above/",
+    "urlToImage": "https://www.rudebaguette.com/wp-content/uploads/2025/09/warning-nasas-deep-space-mission-faces-catastrophic-failure-total-communication-loss-within-48-hours.jpg",
+    "publishedAt": "2025-09-21T13:11:11Z",
+    "content": "<table><tr><td>IN A NUTSHELL</td></tr><tr><td><ul><li> The Cygnus XL spacecraft encountered engine malfunctions, delaying its mission to the ISS.</li><li> NASA is exploring all available options to e\u2026 [+5400 chars]",
+    "text": "\"This Cargo Is Lost\": NASA's Five-Ton Supply Ship Malfunctions While ISS Astronauts Watch Helplessly From Above - Rude Baguette",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9998062252998352,
+    "processed_at": "2025-09-22T16:00:07.840496"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "InStyle"
+    },
+    "author": "https://www.facebook.com/InStyle",
+    "title": "Meghan Markle Dons a Backless Navy Sundress as She Shares Sweet PDA Moment With Prince Harry - AOL.com",
+    "description": "Meghan Markle and Prince Harry made a rare appearance at the One805LIVE! 2025 concert benefiting first responders in California on September 20. They shared some sweet moments of affection and wore coordinated navy looks.",
+    "url": "https://www.instyle.com/meghan-markle-navy-sundress-pda-outing-prince-harry-11814180",
+    "urlToImage": "https://www.instyle.com/thmb/cYc0fu-8bTXjMHm3asKaQ2lSvSQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/meg-8e6e73003efe4849a49373a72dcb3505.jpg",
+    "publishedAt": "2025-09-21T12:32:44Z",
+    "content": "Meghan Markle and Prince Harry made a rare public joint appearance. Stepping out together for the One805LIVE! 2025 concert benefiting first responders in Carpinteria, California on September 20, the \u2026 [+1820 chars]",
+    "text": "Meghan Markle Dons a Backless Navy Sundress as She Shares Sweet PDA Moment With Prince Harry - AOL.com",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9328533411026001,
+    "processed_at": "2025-09-22T16:00:07.931323"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "AP News",
+    "title": "Israel kills 34 people in Gaza, say health officials, ahead of UN meeting - AP News",
+    "description": null,
+    "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-09-21-2025-6697b72cb308da276e6e4c9409fcf5c9",
+    "urlToImage": null,
+    "publishedAt": "2025-09-21T12:19:00Z",
+    "content": null,
+    "text": "Israel kills 34 people in Gaza, say health officials, ahead of UN meeting - AP News",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9975870847702026,
+    "processed_at": "2025-09-22T16:00:08.035189"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Matt  Schooley",
+    "title": "1 dead, 2 wounded in shooting at New Hampshire country club; suspect arrested - CBS News",
+    "description": "One person is dead and several people were wounded during a shooting Saturday night at Sky Meadow Country Club in Nashua, New Hampshire.",
+    "url": "https://www.cbsnews.com/boston/news/nashua-new-hampshire-shooting-sky-meadow-country-club/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/09/21/6bac2933-bbb4-4b75-819c-8cba159de5d5/thumbnail/1200x630/3e75e067c9da7d97307818618c5ca9aa/ap25264071969468.jpg",
+    "publishedAt": "2025-09-21T12:07:28Z",
+    "content": "One person is dead and several people were wounded during a shooting Saturday night at Sky Meadow Country Club in Nashua, New Hampshire, authorities said. A suspect was arrested and charged with murd\u2026 [+2903 chars]",
+    "text": "1 dead, 2 wounded in shooting at New Hampshire country club; suspect arrested - CBS News",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9811581969261169,
+    "processed_at": "2025-09-22T16:00:08.124299"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Dublin Airport disruption continues following cyber-attack - BBC",
+    "description": "A \"Europe-wide technical issue\" is still impacting some airline's check in and boarding systems.",
+    "url": "https://www.bbc.com/news/articles/cly66zr1ym3o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b835/live/defcfcc0-96c9-11f0-aaa5-6b36db6f2a24.jpg",
+    "publishedAt": "2025-09-21T10:32:49Z",
+    "content": "Dublin Airport is facing a second day of disruption at Terminal 2 after a cyber-attack knocked out a check-in and baggage systems.\r\nThe airport said it is continuing to support airlines dealing with \u2026 [+1959 chars]",
+    "text": "Dublin Airport disruption continues following cyber-attack - BBC",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9964912533760071,
+    "processed_at": "2025-09-22T16:00:08.211940"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "H-1B: Man spent $8,000 on flights to get back to the US after visa fears - BBC",
+    "description": "US officials later clarified current H-1B holders were unaffected but immigration lawyers already advised people to return.",
+    "url": "https://www.bbc.com/news/articles/cn4wwwz2p1po",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1925/live/ede34c00-96c7-11f0-aaa5-6b36db6f2a24.jpg",
+    "publishedAt": "2025-09-21T10:31:32Z",
+    "content": "Rohan Mehta - not his real name - spent over $8,000 (\u00a35,900) on flights in his scramble to get back to the US ahead of a deadline that would dramatically increase visa fees for some.\r\nHe had been in \u2026 [+3527 chars]",
+    "text": "H-1B: Man spent $8,000 on flights to get back to the US after visa fears - BBC",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9972934126853943,
+    "processed_at": "2025-09-22T16:00:08.302317"
+  }
+]

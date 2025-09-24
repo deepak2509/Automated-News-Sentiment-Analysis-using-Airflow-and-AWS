@@ -1,0 +1,155 @@
+[
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "The Wall Street Journal",
+    "title": "Air Traffic Returns to Normal at Dallas-Area Airports After Outage, FAA Says - The Wall Street Journal",
+    "description": null,
+    "url": "https://www.wsj.com/business/airlines/flights-disrupted-at-dallas-airports-due-to-equipment-outage-20f8ee86",
+    "urlToImage": null,
+    "publishedAt": "2025-09-20T20:27:00Z",
+    "content": null,
+    "text": "Air Traffic Returns to Normal at Dallas-Area Airports After Outage, FAA Says - The Wall Street Journal",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9741759896278381,
+    "processed_at": "2025-09-21T22:00:08.529089"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Jack Dunn",
+    "title": "Mark Ruffalo: Disney Stock Will 'Go Down' if ABC Cancels Jimmy Kimmel - Variety",
+    "description": "Mark Ruffalo says Disney's stock will 'go down a lot' if ABC cancels 'Jimmy Kimmel Live!'",
+    "url": "https://variety.com/2025/tv/news/mark-ruffalo-disney-stock-abc-cancel-jimmy-kimmel-live-1236525323/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2025/08/GettyImages-2006038685-e1754082733884.jpg?crop=0px%2C33px%2C2130px%2C1198px&resize=1000%2C563",
+    "publishedAt": "2025-09-20T18:42:00Z",
+    "content": "Longtime Marvel star Mark Ruffalo is sharing his thoughts on ABC pulling Jimmy Kimmel off the air.\r\nIn a post to Threads, Ruffalo re-shared a report claiming Disney\u2019s stock dropped 7% after ABC pre-e\u2026 [+1583 chars]",
+    "text": "Mark Ruffalo: Disney Stock Will 'Go Down' if ABC Cancels Jimmy Kimmel - Variety",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9991726279258728,
+    "processed_at": "2025-09-21T22:00:08.590280"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "Brent Brookhouse",
+    "title": "College football scores, live updates: Week 4 schedule features Utah vs. Texas Tech, Clemson in action - CBS Sports",
+    "description": "NCAA football scores, live updates and highlights from the full slate of Week 4 action on Saturday",
+    "url": "https://www.cbssports.com/college-football/news/college-football-scores-live-updates-schedule-week-4-ncaa-top-25-games-today/live/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/20/5e1ea327-d634-4272-b6c6-755843675b7d/thumbnail/1200x675/0020d8404795b36e4d384ddcbc9b38f0/texas-tech-utah.png",
+    "publishedAt": "2025-09-20T18:30:00Z",
+    "content": "Halftime: Syracuse 24, Clemson 14\r\nIf you were wondering whether it could get worse for Clemson, it could. After suffering a heartbreaking loss to Georgia Tech last weekend, the Tigers came out flat \u2026 [+1566 chars]",
+    "text": "College football scores, live updates: Week 4 schedule features Utah vs. Texas Tech, Clemson in action - CBS Sports",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.6723936200141907,
+    "processed_at": "2025-09-21T22:00:08.697165"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Nino Paoli",
+    "title": "Conservatives are talking about \u2018unbelievably dangerous\u2019 precedent being set by FCC chair - Fortune",
+    "description": "\u201cAnd it might feel good right now to threaten Jimmy Kimmel, but when it is used to silence every conservative in America, we will regret it.\u201d",
+    "url": "https://fortune.com/2025/09/20/jimmy-kimmel-suspension-conservatives-fcc-free-speech-debate-charlie-kirk-trump-broadcast-late-night-censorship/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/09/GettyImages-2193465807-e1758390704560.jpg?resize=1200,600",
+    "publishedAt": "2025-09-20T18:11:00Z",
+    "content": "In the aftermath of Jimmy Kimmels late-night show suspension, conservative politicians and media personalities are sounding the alarm on free speech.Amid pressure from the Federal Communications Comm\u2026 [+3000 chars]",
+    "text": "Conservatives are talking about \u2018unbelievably dangerous\u2019 precedent being set by FCC chair - Fortune",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9352967143058777,
+    "processed_at": "2025-09-21T22:00:08.738888"
+  },
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": "Josh Wingrove, Spencer Soper",
+    "title": "Trump Shapes Gilded Age of US Immigration With $100,000 H-1B Fee - Bloomberg.com",
+    "description": "President Donald Trump took his most extensive step yet toward overhauling the US legal migration system, with a pair of proclamations that explicitly favor the wealthiest of the world\u2019s prospective expat workers.",
+    "url": "https://www.bloomberg.com/news/articles/2025-09-20/trump-shapes-gilded-age-of-us-immigration-with-100-000-h-1b-fee",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFTiGCP1ncso/v0/1200x800.jpg",
+    "publishedAt": "2025-09-20T18:00:53Z",
+    "content": "President Donald Trump took his most extensive step yet toward overhauling the US legal migration system, with a pair of proclamations that explicitly favor the wealthiest of the worlds prospective e\u2026 [+262 chars]",
+    "text": "Trump Shapes Gilded Age of US Immigration With $100,000 H-1B Fee - Bloomberg.com",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.7742694020271301,
+    "processed_at": "2025-09-21T22:00:08.795404"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "The Associated Press",
+    "title": "Cyberattack disrupts check-in systems at major European airports - ABC News - Breaking News, Latest News and Videos",
+    "description": "A cyberattack targeting check-in and boarding systems has disrupted air traffic at several major European airports",
+    "url": "https://abcnews.go.com/International/wireStory/cyberattack-disrupts-check-systems-major-european-airports-125760897",
+    "urlToImage": "https://i.abcnewsfe.com/a/00d88768-1b4f-44d8-9ad9-a85d9ce4869a/wirestory_29b6d890baf7ac3a22f0f2b2f169b890_16x9.jpg?w=1600",
+    "publishedAt": "2025-09-20T17:38:50Z",
+    "content": "BRUSSELS -- A cyberattack targeting check-in and boarding systems disrupted air traffic and caused delays at several of Europes major airports on Saturday, officials said, though the initial impact a\u2026 [+2288 chars]",
+    "text": "Cyberattack disrupts check-in systems at major European airports - ABC News - Breaking News, Latest News and Videos",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9949352145195007,
+    "processed_at": "2025-09-21T22:00:08.854973"
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Ben Johansen",
+    "title": "US will control TikTok\u2019s algorithm under deal, White House says - Politico",
+    "description": "Trump has repeatedly flouted a congressionally passed ban on the app to give more time for negotiations over ownership.",
+    "url": "https://www.politico.com/news/2025/09/20/trump-tiktok-sale-algorithm-00574348",
+    "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F30%2F03%2F9fae31da47d2ae939ff499809915%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2236119223",
+    "publishedAt": "2025-09-20T17:36:04Z",
+    "content": "An agreement between America and China over the Chinese-owned apps content algorithm has been a key element of negotiations, as lawmakers increasingly grew concerned in the past several years that Ch\u2026 [+1526 chars]",
+    "text": "US will control TikTok\u2019s algorithm under deal, White House says - Politico",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.965626060962677,
+    "processed_at": "2025-09-21T22:00:08.891160"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Matt Lavietes",
+    "title": "Armed man posing as law enforcement detained at site of Charlie Kirk's memorial - NBC News",
+    "description": "An armed man posing as law enforcement was detained at an Arizona stadium where a memorial service for Charlie Kirk is set to take place on Sunday, the Secret Service said",
+    "url": "https://www.nbcnews.com/news/us-news/armed-man-posing-law-enforcement-detained-site-charlie-kirks-memorial-rcna232609",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250920-State-Farm-Stadium-c-d3c366.jpg",
+    "publishedAt": "2025-09-20T17:16:53Z",
+    "content": "An armed man posing as law enforcement was detained at an Arizona stadium where a memorial service for Charlie Kirk is set to take place on Sunday, the Secret Service said.\r\nThe man entered State Far\u2026 [+1606 chars]",
+    "text": "Armed man posing as law enforcement detained at site of Charlie Kirk's memorial - NBC News",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9582993984222412,
+    "processed_at": "2025-09-21T22:00:08.936079"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "POLITICO.eu"
+    },
+    "author": "Claudia Chiappa",
+    "title": "Dutch anti-immigration protest turns violent - politico.eu",
+    "description": "Police used tear gas and water cannons to disperse rioters in The Hague on Saturday.",
+    "url": "https://www.politico.eu/article/dutch-anti-immigration-protest-violent-the-hague/",
+    "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/09/20/GettyImages-2235888418.jpg",
+    "publishedAt": "2025-09-20T17:16:00Z",
+    "content": "The violent protest triggered a backlash among Dutch officials from both the left and right.\r\nDutch Justice Minister Foort van Oosten called violence against police absolutely unacceptable.\r\nDemonstr\u2026 [+485 chars]",
+    "text": "Dutch anti-immigration protest turns violent - politico.eu",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9976311922073364,
+    "processed_at": "2025-09-21T22:00:08.962164"
+  }
+]

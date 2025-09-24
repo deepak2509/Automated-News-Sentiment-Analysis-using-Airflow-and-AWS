@@ -1,0 +1,43 @@
+version: 2
+
+metrics:
+
+  - name: fairness_gap
+    label: "Fairness Gap"
+    model: ref('fact_bias_observations')
+    description: "Difference in positive prediction rates between a group and the baseline group."
+    type: expression
+    sql: "AVG(parity_gap)"
+    timestamp: ts
+    time_grains: [day, week, month]
+    dimensions:
+      - group_name
+
+  - name: disparate_impact
+    label: "Disparate Impact Ratio"
+    model: ref('fact_bias_observations')
+    description: "Ratio of positive prediction rates for a group vs baseline."
+    type: expression
+    sql: "AVG(disparate_impact)"
+    timestamp: ts
+    time_grains: [day, week, month]
+    dimensions:
+      - group_name
+
+  - name: psi
+    label: "Population Stability Index"
+    model: ref('fact_drift_observations')
+    description: "PSI between baseline distribution and current distribution."
+    type: expression
+    sql: "AVG(psi)"
+    timestamp: ts
+    time_grains: [day, week, month]
+
+  - name: output_shift
+    label: "Output Positive Rate Shift"
+    model: ref('fact_drift_observations')
+    description: "Change in positive prediction rate vs baseline."
+    type: expression
+    sql: "AVG(output_shift)"
+    timestamp: ts
+    time_grains: [day, week, month]

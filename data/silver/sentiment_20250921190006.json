@@ -1,0 +1,155 @@
+[
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Ukraine says three killed in 'massive' Russian aerial attack - BBC",
+    "description": "President Zelensky says Moscow seeks to \"intimidate civilians\", while Russia reports four deaths in a Ukrainian strike.",
+    "url": "https://www.bbc.com/news/articles/ce3253gxqvwo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a28a/live/11237600-961d-11f0-b5f9-bf23d14527d7.png",
+    "publishedAt": "2025-09-20T15:30:15Z",
+    "content": "At least three people have been killed and more than 30 injured in a \"massive\" overnight Russian aerial attack on Ukraine, President Volodymyr Zelensky says.\r\nHe says regions across the country were \u2026 [+3105 chars]",
+    "text": "Ukraine says three killed in 'massive' Russian aerial attack - BBC",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9932190775871277,
+    "processed_at": "2025-09-21T19:00:06.341293"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "DW (English)"
+    },
+    "author": "Dmytro Hubenko, Midhat Fatimah",
+    "title": "Airports across Europe face disruptions due to cyberattack - dw.com",
+    "description": "The cyberattack has led to severe delays to flights across the continent, with airports in Brussels, Berlin and London affected.",
+    "url": "https://www.dw.com/en/airports-across-europe-face-disruptions-due-to-cyberattack/a-74073365",
+    "urlToImage": "https://static.dw.com/image/74074050_6.jpg",
+    "publishedAt": "2025-09-20T15:00:00Z",
+    "content": "Operations at several major airports in Europe faced disruptions Saturday after a cyberattack\u00a0targeted the service provider for check-in and boarding systems.\r\nFlights were delayed or canceled at air\u2026 [+2387 chars]",
+    "text": "Airports across Europe face disruptions due to cyberattack - dw.com",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9985834360122681,
+    "processed_at": "2025-09-21T19:00:06.377151"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Greg Norman",
+    "title": "Charlie Kirk memorial in Arizona expected to draw 100,000, with Trump and Vance headlining - Fox News",
+    "description": "Police are expecting around 100,000 people to attend Charlie Kirk\u2019s memorial service at State Farm Stadium in Glendale, Arizona, on Sunday, Sept. 21, 2025. The event is receiving Super Bowl-like security measures.",
+    "url": "https://www.foxnews.com/live-news/charlie-kirk-shooting-investigation-9-20-2025",
+    "urlToImage": "https://livenews.foxnews.com/images/2025/09/7ce0d247826bbc5c2db9e4d16c6c6957.jpg",
+    "publishedAt": "2025-09-20T14:39:12Z",
+    "content": "In the aftermath of conservative activist Charlie Kirk's assassination, a debate about political rhetoric and its impact on recent spates of political violence has taken hold on Capitol Hill and acro\u2026 [+1430 chars]",
+    "text": "Charlie Kirk memorial in Arizona expected to draw 100,000, with Trump and Vance headlining - Fox News",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9937921166419983,
+    "processed_at": "2025-09-21T19:00:06.401093"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Anthony D'Alessandro",
+    "title": "\u2018Demon Slayer\u2019 & \u2018Him\u2019 Butting Heads For No. 1 With $15M-$16M, \u2018Big Bold Beautiful Journey\u2019 Bombs With $3M+ \u2013 Saturday AM Box Office - Deadline",
+    "description": "'Demon Slayer' and 'Him' are fighting or No. 1 while Margot Robbie and Colin Farrell's 'A Big Bold Beautiful Journey' bombs.",
+    "url": "http://deadline.com/2025/09/box-office-demon-slayer-him-big-bold-beautiful-journey-1236549266/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/Demon-Slayer-Infinity-Castle-Him-and-Big-Bold-Beautiful-Journey.-.jpg?w=1024",
+    "publishedAt": "2025-09-20T14:35:00Z",
+    "content": "SATURDAY AM: After two weekends of overperforming, the September box office steps on the brakes, down -49% from last weekend to roughly $77M. Sony/Crunchyroll\u2019s Demon Slayer: Infinity Castle and Univ\u2026 [+8420 chars]",
+    "text": "\u2018Demon Slayer\u2019 & \u2018Him\u2019 Butting Heads For No. 1 With $15M-$16M, \u2018Big Bold Beautiful Journey\u2019 Bombs With $3M+ \u2013 Saturday AM Box Office - Deadline",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.933279275894165,
+    "processed_at": "2025-09-21T19:00:06.431015"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Denise Petski",
+    "title": "Suspect Arrested In ABC Sacramento Affiliate Station Shooting \u2013 Update - Deadline",
+    "description": "A suspect has been arrested for allegedly shooting into the lobby of Sacramento ABC affiliate KXTV (ABC10), police said Saturday.",
+    "url": "http://deadline.com/2025/09/abc-building-gunshots-sacramento-affiliate-arrest-1236549990/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/ABC10-building-in-Sacramento.jpg?w=1024",
+    "publishedAt": "2025-09-20T13:30:00Z",
+    "content": "UPDATED with arrest: A suspect has been arrested for allegedly shooting into the lobby of Sacramento ABC affiliate KXTV (ABC10), police said Saturday. \r\nThe shooting Friday, occurred one day after a \u2026 [+2010 chars]",
+    "text": "Suspect Arrested In ABC Sacramento Affiliate Station Shooting \u2013 Update - Deadline",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9879427552223206,
+    "processed_at": "2025-09-21T19:00:06.448464"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Tom Murphy",
+    "title": "How to get a COVID-19 shot and ensure it\u2019s covered by your insurance - AP News",
+    "description": "Drugstores are ready to deliver COVID-19 vaccines this fall, and insurers plan to cover them, despite the shots no longer being recommended by a key government committee. Vaccine advisers selected by Health Secretary Robert F. Kennedy Jr. have declined to spe\u2026",
+    "url": "https://apnews.com/article/covid-vaccine-access-drugstores-acip-300170f72c4f864656788695dd0ff23f",
+    "urlToImage": "https://dims.apnews.com/dims4/default/9359946/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2F03%2F6605e80ef294ceecc6ccfa667b50%2F1926eafbdda04dbc9661b0e03c3c7806",
+    "publishedAt": "2025-09-20T13:27:00Z",
+    "content": "Drugstores are ready to deliver updated COVID-19 vaccines this fall and insurers plan to pay for them, even though the shots no longer come recommended by an important government committee.\r\nOn Frida\u2026 [+4092 chars]",
+    "text": "How to get a COVID-19 shot and ensure it\u2019s covered by your insurance - AP News",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9248665571212769,
+    "processed_at": "2025-09-21T19:00:06.525775"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "The Associated Press",
+    "title": "Trump says U.S. military fatally struck another alleged drug-smuggling boat - NPR",
+    "description": "President Trump posted a video that shows a vessel speeding through waters before it appears to be struck by a pair of missiles from overhead and sink in a fiery explosion.",
+    "url": "https://www.npr.org/2025/09/20/nx-s1-5547852/trump-military-strike-drug-smuggling-boat",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+4/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2F45%2F203d637748e58625a877d8431a12%2Fap25262767145754.jpg",
+    "publishedAt": "2025-09-20T13:11:57Z",
+    "content": "WASHINGTON President Donald Trump said Friday the U.S. military has carried out its third fatal strike against an alleged drug smuggling vessel this month.\r\nTrump in a social media posting said the s\u2026 [+2897 chars]",
+    "text": "Trump says U.S. military fatally struck another alleged drug-smuggling boat - NPR",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9915327429771423,
+    "processed_at": "2025-09-21T19:00:06.547706"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Seattle Times"
+    },
+    "author": "Elise Takahama",
+    "title": "UW doctor fired by RFK Jr. speaks on new COVID vaccine guidance - The Seattle Times",
+    "description": "Health insurers will continue to cover updated COVID-19 vaccines for anyone who wants one, a CDC advisory committee ruled Friday.",
+    "url": "https://www.seattletimes.com/seattle-news/health/uw-doctor-fired-by-rfk-jr-speaks-on-new-covid-vaccine-guidance/",
+    "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/09/09192025_helen-chu_163728.jpg?d=1200x630",
+    "publishedAt": "2025-09-20T13:00:00Z",
+    "content": "From the perspective of one Seattle infectious disease doctor, access to COVID-19 shots won\u2019t change much after a highly anticipated meeting of the nation\u2019s top vaccine advisers.\r\nDr. Helen Chu, a UW\u2026 [+4555 chars]",
+    "text": "UW doctor fired by RFK Jr. speaks on new COVID vaccine guidance - The Seattle Times",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9953808784484863,
+    "processed_at": "2025-09-21T19:00:06.585331"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": "Andrew Keshner",
+    "title": "Gen Z fell in love with high-yield cash savings. The Fed just crashed the party. - MarketWatch",
+    "description": "Interest-rate cuts could be especially tough on younger investors, who may hold more cash than they should",
+    "url": "https://www.marketwatch.com/story/gen-z-fell-in-love-with-high-yield-cash-savings-the-fed-just-crashed-the-party-76efc1b4",
+    "urlToImage": "https://images.mktw.net/im-02094138/social",
+    "publishedAt": "2025-09-20T12:30:00Z",
+    "content": "Gen Z savers and investors may have a cash problem on their hands, and the Federal Reserve is about to make it worse.\u00a0\r\nBanks are poised to pay less interest on high-yield savings accounts after the \u2026 [+107 chars]",
+    "text": "Gen Z fell in love with high-yield cash savings. The Fed just crashed the party. - MarketWatch",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996535778045654,
+    "processed_at": "2025-09-21T19:00:06.610944"
+  }
+]

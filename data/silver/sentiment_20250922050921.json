@@ -1,0 +1,138 @@
+[
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "ABC News - Breaking News, Latest News and Videos",
+    "title": "Trump says he is appointing Lindsey Halligan, one of his former attorneys, to lead key prosecutor's office - ABC News - Breaking News, Latest News and Videos",
+    "description": null,
+    "url": "https://abcnews.go.com/Politics/trump-nominate-former-attorney-lead-key-prosecutors-office/story?id\\\\u003d125775601",
+    "urlToImage": null,
+    "publishedAt": "2025-09-21T03:35:59Z",
+    "content": null,
+    "text": "Trump says he is appointing Lindsey Halligan, one of his former attorneys, to lead key prosecutor's office - ABC News - Breaking News, Latest News and Videos",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.5128092169761658,
+    "processed_at": "2025-09-22T05:09:21.595344"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Indianapolis Star"
+    },
+    "author": "Evan Frank, Chris Sims, Zach Osterman, Aaron Ferguson",
+    "title": "Indiana football vs Illinois: Hoosiers dominatie No. 8 team with 63-10 victory - IndyStar",
+    "description": "The Indiana Hoosiers destroyed No. 8 Illinois, 63-10, as Fernando Mendoza firmly establishing himself in the Heisman Trophy race",
+    "url": "https://www.indystar.com/story/sports/college/indiana/2025/09/20/indiana-illinois-live-updates-score-college-football-where-watch-tv-channel-how-stream-highlights/86223903007/",
+    "urlToImage": "https://www.indystar.com/gcdn/authoring/authoring-images/2025/09/13/NHEN/86122915007-iu-isu-ncaa-fb-41.jpg?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
+    "publishedAt": "2025-09-21T03:22:30Z",
+    "content": "The Indiana football team (4-0) destroyed No. 8 Illinois (3-1), 63-10, at Merchants Bank Field at Memorial Stadium on Saturday as the Hoosiers' historic turnaround under coach Curt Cignetti continues\u2026 [+15604 chars]",
+    "text": "Indiana football vs Illinois: Hoosiers dominatie No. 8 team with 63-10 victory - IndyStar",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9933506846427917,
+    "processed_at": "2025-09-22T05:09:21.624930"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Gene Maddaus",
+    "title": "Christopher Nolan Elected President of Directors Guild of America - Variety",
+    "description": "Christopher Nolan has been elected president of the Directors Guild of America, succeeding Lesli Linka Glatter.",
+    "url": "https://variety.com/2025/film/news/christopher-nolan-directors-guild-elect-president-1236525332/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2024/12/GettyImages-2074751584-e1734992373146.jpg?crop=0px%2C31px%2C1845px%2C1037px&resize=1000%2C563",
+    "publishedAt": "2025-09-21T02:29:00Z",
+    "content": "Christopher Nolan has been elected president of the Directors Guild of America, taking over the reins as the union prepares for upcoming negotiations with the major studios.\r\nNolan, an Oscar winner a\u2026 [+2817 chars]",
+    "text": "Christopher Nolan Elected President of Directors Guild of America - Variety",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9991251826286316,
+    "processed_at": "2025-09-22T05:09:21.648672"
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Kyle Cheney",
+    "title": "\u2018We can\u2019t delay any longer\u2019: Trump urges Bondi to prosecute his rivals - Politico",
+    "description": "In a Truth Social post Saturday, the president specifically called out Sen. Adam Schiff, former FBI Director James Comey and New York Attorney General Letitia James for prosecution.",
+    "url": "https://www.politico.com/news/2025/09/20/trump-bondi-truth-social-00574380",
+    "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0b%2F38%2Ff94387e749478434cb7e559fb2db%2Fwhite-house-69801.jpg",
+    "publishedAt": "2025-09-21T01:18:23Z",
+    "content": "Trump appeared to confirm those reports, accusing Siebert of saying that we had no case.\r\nThere is a GREAT CASE, Trump said.\r\nTrump also appeared to float his onetime personal attorney Lindsey Hallig\u2026 [+2818 chars]",
+    "text": "\u2018We can\u2019t delay any longer\u2019: Trump urges Bondi to prosecute his rivals - Politico",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.977901816368103,
+    "processed_at": "2025-09-22T05:09:21.673421"
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Jordain Carney",
+    "title": "Schumer, Jeffries demand meeting with Trump amid shutdown showdown - Politico",
+    "description": "The government is set to shut down on Sept. 30.",
+    "url": "https://www.politico.com/news/2025/09/20/trump-democrats-shutdown-meeting-00574336",
+    "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F6b%2Ff3%2F8d94221d4725a0269f899f63f405%2Fu-s-congress-35947.jpg",
+    "publishedAt": "2025-09-21T00:53:10Z",
+    "content": "As a result, it is now your obligation to meet with us directly to reach an agreement to keep the government open and address the Republican healthcare crisis, they added.\r\nThe demand for a meeting c\u2026 [+2677 chars]",
+    "text": "Schumer, Jeffries demand meeting with Trump amid shutdown showdown - Politico",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9188376069068909,
+    "processed_at": "2025-09-22T05:09:21.695939"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": null,
+    "title": "This country\u2019s government vowed to eliminate TB by the end of 2025. It\u2019s not going well. - CNN",
+    "description": "Relentless coughing echoes through the Mumbai suburb of Govandi, where families live cramped under tarpaulin and salvaged wood. The narrow lanes are waterlogged and airless, and here in India\u2019s financial capital, a deadly disease is lurking at every door.",
+    "url": "https://www.cnn.com/2025/09/20/india/india-tb-target-health-care-challenges-intl-hnk-dst",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1239532478.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-09-21T00:04:00Z",
+    "content": "Relentless coughing echoes through the Mumbai suburb of Govandi, where families live cramped under tarpaulin and salvaged wood. The narrow lanes are waterlogged and airless, and here in Indias financ\u2026 [+9666 chars]",
+    "text": "This country\u2019s government vowed to eliminate TB by the end of 2025. It\u2019s not going well. - CNN",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9997324347496033,
+    "processed_at": "2025-09-22T05:09:21.724805"
+  },
+  {
+    "source": {
+      "id": "axios",
+      "name": "Axios"
+    },
+    "author": "Ben Berkowitz",
+    "title": "New H-1B visa fee will not apply to existing holders, official says - Axios",
+    "description": "The $100,000 fee for the highly prized visa is intended to boost jobs for U.S. workers.",
+    "url": "https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas",
+    "urlToImage": "https://images.axios.com/Spb_DP8o4YJQlzAea6rM4zwWxmQ=/0x0:8485x4773/1366x768/2025/09/20/1758385005336.jpeg",
+    "publishedAt": "2025-09-20T23:45:54Z",
+    "content": "A new $100,000 fee for H-1B visas goes into effect Sunday, but it will not be applied to existing holders of valid visas re-entering the country, a White House official tells Axios.\r\nWhy it matters: \u2026 [+3115 chars]",
+    "text": "New H-1B visa fee will not apply to existing holders, official says - Axios",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9946534633636475,
+    "processed_at": "2025-09-22T05:09:21.743633"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Steve Reed",
+    "title": "Angeli, Syracuse upset Clemson 34-21; Dabo Swinney off to worst start of his career - AP News",
+    "description": "Steve Angeli threw for 244 yards and two touchdowns before leaving with a lower leg injury, Justus Ross-Simmons caught two TD passes as Syracuse upset Clemson 34-21. The Tigers are 1-3 for the first time under coach Dabo Swinney. Angeli connected with Ross-Si\u2026",
+    "url": "https://apnews.com/article/syracuse-clemson-score-99c1149e785e0219e44b9241efcef24d",
+    "urlToImage": "https://dims.apnews.com/dims4/default/671e271/2147483647/strip/true/crop/7832x4406+0+408/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2F0c%2F33749c74aa4d9b24662d2191d979%2Ff2e226f7587842babb3c1d8cd84d8ef8",
+    "publishedAt": "2025-09-20T23:43:00Z",
+    "content": "CLEMSON, S.C. (AP) Steve Angeli threw for 244 yards and two touchdowns before leaving with a lower leg injury, Justus Ross-Simmons hauled in two TD passes and Syracuse upset heavily-favored Clemson 3\u2026 [+4150 chars]",
+    "text": "Angeli, Syracuse upset Clemson 34-21; Dabo Swinney off to worst start of his career - AP News",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9996466636657715,
+    "processed_at": "2025-09-22T05:09:21.768966"
+  }
+]

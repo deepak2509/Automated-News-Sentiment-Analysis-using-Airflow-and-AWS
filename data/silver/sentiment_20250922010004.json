@@ -1,0 +1,155 @@
+[
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Anthony D'Alessandro",
+    "title": "\u2018Taylor Swift: The Official Release Party Of A Showgirl\u2019 Boogies To $15M First Day Presales, Opening Forecast $30M-$50M \u2013 Box Office - Deadline",
+    "description": "'Taylor Swift: The Official Release Party of a Showgirl' is expected to open to $30M-$50M at the box office on Oct 3-5 after $15M in first day advance ticket sales.",
+    "url": "http://deadline.com/2025/09/taylor-swift-life-of-a-showgirl-movie-box-office-1236551572/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/1000033132-e1758400651274.jpg?w=1024",
+    "publishedAt": "2025-09-20T21:23:00Z",
+    "content": "EXCLUSIVE: Sources are telling us today that AMC\u2018s last-minute booking of Taylor Swift: The Official Release Party of a Showgirl for a one weekend play has racked up $15M across all circuits in its f\u2026 [+3816 chars]",
+    "text": "\u2018Taylor Swift: The Official Release Party Of A Showgirl\u2019 Boogies To $15M First Day Presales, Opening Forecast $30M-$50M \u2013 Box Office - Deadline",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9809330701828003,
+    "processed_at": "2025-09-22T01:00:03.793287"
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Jordain Carney",
+    "title": "Schumer, Jeffries demand meeting with Trump amid shutdown showdown - Politico",
+    "description": "The government is set to shut down on Sept. 30.",
+    "url": "https://www.politico.com/news/2025/09/20/trump-democrats-shutdown-meeting-00574336",
+    "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F6b%2Ff3%2F8d94221d4725a0269f899f63f405%2Fu-s-congress-35947.jpg",
+    "publishedAt": "2025-09-20T21:17:59Z",
+    "content": "As a result, it is now your obligation to meet with us directly to reach an agreement to keep the government open and address the Republican healthcare crisis, they added.\r\nThe demand for a meeting c\u2026 [+2502 chars]",
+    "text": "Schumer, Jeffries demand meeting with Trump amid shutdown showdown - Politico",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9188376069068909,
+    "processed_at": "2025-09-22T01:00:03.833431"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": null,
+    "title": "Texas Tech Red Raiders vs. Utah Utes Live Score and Stats - September 20, 2025 Gametracker - CBS Sports",
+    "description": "Live COLLEGEFOOTBALL scores at CBSSports.com. Check out the COLLEGEFOOTBALL scoreboard, box scores, expert picks and game recaps.",
+    "url": "https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20250920_TXTECH@UTAH/",
+    "urlToImage": "https://sportsfly.cbsistatic.com/fly-01026/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+    "publishedAt": "2025-09-20T21:11:15Z",
+    "content": "SALT LAKE CITY (AP) Backup quarterback Will Hammond stepped into a stagnant Texas Tech Red Raiders offense in the third quarter and put together four scoring drives to lead the 17th-ranked Red Raider\u2026 [+3600 chars]",
+    "text": "Texas Tech Red Raiders vs. Utah Utes Live Score and Stats - September 20, 2025 Gametracker - CBS Sports",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.7013400197029114,
+    "processed_at": "2025-09-22T01:00:03.858588"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Greg Norman",
+    "title": "Charlie Kirk memorial in Arizona expected to draw 100,000, with Trump and Vance headlining - Fox News",
+    "description": "Police are expecting around 100,000 people to attend Charlie Kirk\u2019s memorial service at State Farm Stadium in Glendale, Arizona, on Sunday, Sept. 21, 2025. The event is receiving Super Bowl-like security measures.",
+    "url": "https://www.foxnews.com/live-news/charlie-kirk-shooting-investigation-9-20-2025",
+    "urlToImage": "https://livenews.foxnews.com/images/2025/09/7ce0d247826bbc5c2db9e4d16c6c6957.jpg",
+    "publishedAt": "2025-09-20T20:53:48Z",
+    "content": "FOX News Media will present extensive, multiplatform live programming surrounding the public memorial service of Turning Point USA founder\u00a0Charlie Kirk\u00a0on Sunday.\r\nFox News Digital will provide compr\u2026 [+2427 chars]",
+    "text": "Charlie Kirk memorial in Arizona expected to draw 100,000, with Trump and Vance headlining - Fox News",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9937921166419983,
+    "processed_at": "2025-09-22T01:00:03.881294"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Victoria Craw",
+    "title": "Trump\u2019s changes to skilled worker visas spark confusion. Here\u2019s what to know. - The Washington Post",
+    "description": "Trump announced a $100,000 fee for H-1B visas, and said entry restrictions would apply as of Sunday. That\u2019s led to confusion among visa holders and immigration lawyers.",
+    "url": "https://www.washingtonpost.com/immigration/2025/09/20/h1b-visa-proclamation-confusion-explained/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDBPLAC6GT64H3GQABFLGI24RQ.JPG&w=1440",
+    "publishedAt": "2025-09-20T20:51:33Z",
+    "content": "President Donald Trumps announcement that a $100,000 fee will be required for new applicants approved for H1-B visas has sparked uncertainty among companies and concern among would-be temporary worke\u2026 [+317 chars]",
+    "text": "Trump\u2019s changes to skilled worker visas spark confusion. Here\u2019s what to know. - The Washington Post",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9860582947731018,
+    "processed_at": "2025-09-22T01:00:03.905309"
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "The Wall Street Journal",
+    "title": "Air Traffic Returns to Normal at Dallas-Area Airports After Outage, FAA Says - The Wall Street Journal",
+    "description": null,
+    "url": "https://www.wsj.com/business/airlines/flights-disrupted-at-dallas-airports-due-to-equipment-outage-20f8ee86",
+    "urlToImage": null,
+    "publishedAt": "2025-09-20T20:27:00Z",
+    "content": null,
+    "text": "Air Traffic Returns to Normal at Dallas-Area Airports After Outage, FAA Says - The Wall Street Journal",
+    "pred_label": "POSITIVE",
+    "pred_score": 0.9741759896278381,
+    "processed_at": "2025-09-22T01:00:03.933997"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Natalie Oganesyan",
+    "title": "Mark Ruffalo Warns Disney\u2019s Stock Price Will Drop \u201cA Lot Further\u201d If ABC Cancels \u2018Jimmy Kimmel Live\u2019 - Deadline",
+    "description": "Mark Ruffalo has joined fellow MCU actors condemning Disney's decision to preempt Jimmy Kimmel Live!, warning the company's share price will drop.",
+    "url": "http://deadline.com/2025/09/mark-ruffalo-disney-jimmy-kimmel-live-suspension-stocks-1236551542/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/GettyImages-2219205177.jpg?w=1024",
+    "publishedAt": "2025-09-20T20:13:00Z",
+    "content": "Marvel star Mark Ruffalo has joined fellow Hulk actor Tatiana Maslany in condemning ABC parent company Disney\u2018s decision to preempt Jimmy Kimmel Live! following pressure from the FCC and affiliate ow\u2026 [+3171 chars]",
+    "text": "Mark Ruffalo Warns Disney\u2019s Stock Price Will Drop \u201cA Lot Further\u201d If ABC Cancels \u2018Jimmy Kimmel Live\u2019 - Deadline",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9981216788291931,
+    "processed_at": "2025-09-22T01:00:03.960729"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "syracuse.com"
+    },
+    "author": "Chris Carlson | ccarlson@syracuse.com",
+    "title": "ESPN moves Syracuse-Clemson after rain delay. What channel is the second half on? - Syracuse.com",
+    "description": "ESPN has moved the second half of the Syracuse-Clemson game, which was delayed more than 80 minutes because of lightning.",
+    "url": "https://www.syracuse.com/orangefootball/2025/09/espn-moves-syracuse-clemson-after-rain-delay-what-channel-is-the-second-half-on.html",
+    "urlToImage": "https://www.syracuse.com/resizer/v2/JUOHCOZTUBHZJIXLABEOK5ZSKY.jpg?auth=8ab229a258c93933f26eda29374477ad8267c1c6746c83bb74d597b7616f005f&width=1280&smart=true&quality=90",
+    "publishedAt": "2025-09-20T19:32:00Z",
+    "content": "Clemson, S.C. -- The second half of the Syracuse-Clemson football game will be televised on ESPN2 following a lightning delay of 80 minutes.\r\nThe game started on ESPN but the television network opted\u2026 [+646 chars]",
+    "text": "ESPN moves Syracuse-Clemson after rain delay. What channel is the second half on? - Syracuse.com",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9923157691955566,
+    "processed_at": "2025-09-22T01:00:03.982700"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": null,
+    "title": "Violence erupts at right-wing demonstration in the Netherlands ahead of election - CBS News",
+    "description": "The violence erupted just weeks before the country plans to hold a general election.",
+    "url": "https://www.cbsnews.com/news/netherlands-right-wing-violence-ahead-of-election/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/20/690c0c9b-7131-4024-bd43-925ea3809a76/thumbnail/1200x630/18cee2ccabfa856cd96af6e21cb26df7/ap25263600527138.jpg",
+    "publishedAt": "2025-09-20T19:02:19Z",
+    "content": "A right-wing demonstration in the\u00a0Netherlands\u00a0erupted into violence and chaos Saturday as rioters clashed with police and vandalized a political party's office, just weeks before the country holds a \u2026 [+2266 chars]",
+    "text": "Violence erupts at right-wing demonstration in the Netherlands ahead of election - CBS News",
+    "pred_label": "NEGATIVE",
+    "pred_score": 0.9956488013267517,
+    "processed_at": "2025-09-22T01:00:04.003609"
+  }
+]
