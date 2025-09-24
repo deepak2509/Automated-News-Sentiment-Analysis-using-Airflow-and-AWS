@@ -63,17 +63,7 @@ FROM silver_news_final
 WHERE publishedat IS NOT NULL
 GROUP BY date(from_iso8601_timestamp(publishedat)), pred_label
 ORDER BY pub_date, pred_label;
----
 
-### 1. How does overall news sentiment change over time?  
-```sql
-SELECT 
-    date(from_iso8601_timestamp(publishedat)) AS pub_date,
-    pred_label,
-    COUNT(*) AS article_count,
-    AVG(pred_score) AS avg_confidence
-FROM silver_news_final
-WHERE publishedat IS NOT NULL
-GROUP BY date(from_iso8601_timestamp(publishedat)), pred_label
-ORDER BY pub_date, pred_label;
+
+**### 2.vvfvfv**
 
