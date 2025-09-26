@@ -28,7 +28,7 @@ The main goal is to extract **meaningful insights** about news sentiment (positi
 
 ---
 
-## 🗄️ Data Schema  
+##  Data Schema  
 
 **Final Silver Table (`silver_news_final`)**
 
@@ -114,5 +114,6 @@ GROUP BY author, pred_label
 ORDER BY article_count DESC
 LIMIT 20;
 ```
+
 
 
