@@ -50,7 +50,7 @@ The main goal is to extract **meaningful insights** about news sentiment (positi
 
 ---
 
-## 📊 Business Questions & SQL Queries  
+## Business Questions & SQL Queries  
 ### 1. How does overall news sentiment change over time?  
 ```sql
 SELECT 
@@ -114,6 +114,7 @@ GROUP BY author, pred_label
 ORDER BY article_count DESC
 LIMIT 20;
 ```
+
 
 
 
