@@ -12,7 +12,7 @@ def fetch_and_store_news():
     url = f"https://newsapi.org/v2/top-headlines?language=en&pageSize=10&apiKey="
     resp = requests.get(url).json()
 
-    # ✅ Error handling
+    #  Error handling
     if resp.get("status") != "ok":
         raise RuntimeError(
             f"NewsAPI error: {resp.get('code')} - {resp.get('message')}"
