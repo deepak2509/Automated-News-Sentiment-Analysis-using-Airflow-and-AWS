@@ -64,11 +64,11 @@ def bronze_to_silver():
     with open(out_file, "w") as f:
         json.dump(results, f, indent=2, default=str)
 
-    # ✅ Save also to S3
+    #  Save also to S3
     s3_key = f"silver/{os.path.basename(out_file)}"
     upload_to_s3(out_file, s3_key)
 
-    print(f"✅ Silver file saved locally and uploaded to S3: {s3_key}")
+    print(f" Silver file saved locally and uploaded to S3: {s3_key}")
     return out_file
 
 
