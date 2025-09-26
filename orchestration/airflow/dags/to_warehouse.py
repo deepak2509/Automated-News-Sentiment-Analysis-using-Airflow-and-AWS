@@ -2,7 +2,7 @@ import os
 import json
 import glob
 import psycopg2
-from s3_utils import upload_to_s3   # ✅ import S3 helper
+from s3_utils import upload_to_s3  
 
 SILVER_PATH = "/opt/airflow/data/silver"
 GOLD_PATH = "/opt/airflow/data/gold"
@@ -64,7 +64,7 @@ def load_to_warehouse():
                  rec.get("pred_score"))
             )
 
-        # ✅ Upload to S3
+        #  Upload to S3
         upload_to_s3(latest, f"silver/{os.path.basename(latest)}")
 
     # --- Bias Metrics (Gold) ---
@@ -79,7 +79,7 @@ def load_to_warehouse():
                 (rec["timestamp"], rec["group"], rec["positive_rate"], rec["parity_gap"], rec["disparate_impact"])
             )
 
-        # ✅ Upload to S3
+        # Upload to S3
         upload_to_s3(latest, f"gold/{os.path.basename(latest)}")
 
     # --- Drift Metrics (Gold) ---
@@ -95,13 +95,13 @@ def load_to_warehouse():
              json.dumps(rec["baseline_distribution"]))
         )
 
-        # ✅ Upload to S3
+        #  Upload to S3
         upload_to_s3(latest, f"gold/{os.path.basename(latest)}")
 
     conn.commit()
     cur.close()
     conn.close()
-    print("✅ Data loaded into Postgres and uploaded to S3.")
+    print("Data loaded into Postgres and uploaded to S3.")
 
 
 if __name__ == "__main__":
